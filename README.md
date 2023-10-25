@@ -1,4 +1,5 @@
 # BCNActivaGitHub
+marianela vasquez
 
 ## Descripció
 
